@@ -6,6 +6,11 @@
 
 ---
 
+🔍 &nbsp; 查看：<br>
+[threejs-inspect-server-room](https://jacychutw.github.io/threejs-inspect-server-room/)
+
+---
+
 📝 &nbsp; 專案文件：<br>
 [Three.js 範例(2)-Inspect-server-room](https://jacychu.medium.com/three-js-%E7%AF%84%E4%BE%8B-2-inspect-server-room-497be7d9c4c8)
 
